@@ -1,1 +1,2 @@
-# SU2-Mesh-in-GMESH
+# This Repository is demonstration of creating C type mesh in GMESH 
+
